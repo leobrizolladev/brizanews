@@ -1,5 +1,5 @@
 function Home() {
-  return <p>Hello baby</p>;
+  return <p>Hello World! 🥷🏻</p>;
 }
 
 export default Home;
